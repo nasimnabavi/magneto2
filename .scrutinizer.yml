@@ -1,0 +1,5 @@
+credentials:
+    http_basic:
+        'repo.magento.com':
+            username: e62f4e77af33c92a07934f71fdb9ab8f
+            password: 64521101501513dec7777741a0f40a14
