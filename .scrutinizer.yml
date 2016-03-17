@@ -6,6 +6,4 @@ credentials:
 checks:
     php:
         excluded_dependencies: 
-            - phpunit/php-timer
-            - psr/log
-            - squizlabs/php_codesniffer
+            - path: phpunit/php-timer
