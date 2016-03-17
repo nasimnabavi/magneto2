@@ -5,4 +5,4 @@ credentials:
             password: 64521101501513dec7777741a0f40a14
 
 excluded_dependencies: 
-    path: phpunit/php-timer
+    path: psr/log
