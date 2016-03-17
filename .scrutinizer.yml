@@ -10,3 +10,4 @@ checks:
             - psr/log
             - phpunit/php-timer
             - squizlabs/php_codesniffer 
+            - fabpot/php-cs-fixer
