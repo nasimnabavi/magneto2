@@ -6,4 +6,4 @@ credentials:
 checks:
     php:
         excluded_dependencies: 
-            - path: phpunit/php-timer
+            path: phpunit/php-timer
